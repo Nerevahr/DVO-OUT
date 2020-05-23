@@ -27,6 +27,6 @@ ___
 
 👨🏻‍💻 Manipulation
 
-Le Scrum Master crée une github page pour la branche master
+Le Scrum Master crée une github page pour la branche master.
 
 ___

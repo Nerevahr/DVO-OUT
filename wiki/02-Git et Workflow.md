@@ -331,7 +331,7 @@ ___
 
 👨🏻‍💻 Manipulation
 
-Le Scrum Master doit synchroniser son contenu locale
+Le Scrum Master doit synchroniser son contenu local.
 
 ___
 
@@ -360,6 +360,6 @@ ___
 
 👨🏻‍💻 Manipulation
 
-Les membres d'équipes doivent synchroniser le contenu locale
+Les membres d'équipes doivent synchroniser le contenu local.
 
 ___

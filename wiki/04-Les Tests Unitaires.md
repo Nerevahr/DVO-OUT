@@ -191,7 +191,7 @@ ___
 
 👨🏻‍💻 Manipulation
 
-Générer un rapport de couverture
+Générer un rapport de couverture.
 
 ___
 
