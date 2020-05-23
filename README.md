@@ -18,6 +18,6 @@ ___
 
 ## Support de cours
 
-* [Wiki](https://github.com/POEC-20-05/DEV-OPS/wiki)
+* [Wiki](https://github.com/POEC-20-05/DVO-OUT/wiki)
 
 ___
